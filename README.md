@@ -16,7 +16,7 @@ http://www.automationpractice.pl/
 
 1. CD to your project directory in terminal
 
-2. clone project using Github ""
+2. clone project using Github "https://github.com/DiaaMohamed9/Cypress_project"
 
 3. install dependancies by running the below command
    `npm install`
