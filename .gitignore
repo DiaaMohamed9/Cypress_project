@@ -1,0 +1,5 @@
+node_modules
+TestReport
+cypress/fixtures
+cypress-tests-report.json
+cypress/videos/automationpractice.cy.js.mp4
